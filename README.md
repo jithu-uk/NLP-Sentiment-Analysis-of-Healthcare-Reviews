@@ -1,1 +1,2 @@
 # NLP-Sentiment-Analysis-of-Healthcare-Reviews
+The "NLP-Sentiment-Analysis-of-Healthcare-Reviews" project involved comprehensive data cleaning, exploratory data analysis (EDA), effective feature engineering, and intricate natural language processing (NLP) pre-processing to analyze and extract valuable insights from healthcare reviews. The final outcome included the development of a machine learning model, which has the ability to predict sentiment and provide valuable feedback for healthcare services based on patient reviews and feedback.
